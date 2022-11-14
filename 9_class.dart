@@ -1,3 +1,5 @@
+// MUGERWA MUHAMMAD 20/U/9146/PS
+
 // a class is important in dart programming for cases where you want to create your own rules
 class Student {
   // we have to give it properties i.e. name, age , contact
